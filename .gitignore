@@ -1,0 +1,22 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.class
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
